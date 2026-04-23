@@ -21,7 +21,7 @@ SEA_Economic_Project/
 ├── 📄 ETL.ipynb                                 # Pipeline xử lý dữ liệu thô (Unpivot, Data Cleaning, Load to SQL).
 ├── 📄 Queries_analysis.sql                      # Chứa logic phân tích chuyên sâu (CAGR, Rolling Avg, Scoring Model).
 └── 📄 Southeast Asia Economy Analysis.pbix      # File Power BI Dashboard.
-
+---
 ## 3. Quy trình Triển khai (Methodology)
 
 ### Giai đoạn 1: Kỹ thuật Dữ liệu (Data Engineering - `etl.ipynb`)

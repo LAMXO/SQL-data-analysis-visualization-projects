@@ -14,7 +14,7 @@ Mục tiêu của dự án không chỉ dừng lại ở việc trực quan hóa
 
 ## 2. Cấu trúc Thư mục (Repository Structure)
 Dựa trên kiến trúc thực tế của dự án:
-
+```text
 SEA_Economic_Project/
 ├── 📁 data/                                     # Chứa các file raw CSV (Metadata, GDP, FDI, CPI...) từ World Bank.
 ├── 📄 CREATE_DATABASE.sql                       # Script khởi tạo Database, thiết lập Schema và các ràng buộc (Foreign Keys, Cascade).
